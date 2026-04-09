@@ -5,7 +5,24 @@ header{
 }
 
 img{
-    height: 180px;
+    height: 160px;
     border-radius: 50%;
-    
+}
+
+h1{
+    color: #a02334;
+}
+
+a{
+    color: #000000;
+}
+
+h2{
+    color: #ae445a;
+    border-bottom: 3px solid #a02334;
+
+}
+
+.exp p{
+    text-align: justify;
 }
