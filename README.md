@@ -1,2 +1,6 @@
-# currículo_html5
-Currículo desenvolvido em HTML como parte de atividade acadêmica, com o objetivo de praticar conceitos básicos de desenvolvimento web, como estruturação semântica e organização de layout.
+# 📄 Currículo Web
+Currículo pessoal desenvolvido em HTML5 e CSS3 como trabalho acadêmico do curso de Análise e Desenvolvimento de Sistemas - Mackenzie.
+
+<div align="right">
+<a href="https://sthefanyalaminos.github.io/curriculum_html5/">Clique aqui para acessar!</a>
+</div>
