@@ -1,4 +1,4 @@
-# 📄 Currículo Web
+# 📄 Curriculum Web
 Currículo pessoal desenvolvido em HTML5 e CSS3 como trabalho acadêmico do curso de Análise e Desenvolvimento de Sistemas - Mackenzie.
 
 <div align="right">
