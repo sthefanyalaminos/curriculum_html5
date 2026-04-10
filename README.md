@@ -17,3 +17,12 @@ Este projeto foi desenvolvido como trabalho acadêmico na disciplina de Fundamen
 - HTML5;
 - CSS3 com Grid Layout.
 
+## Funcionalidades
+- Layout em CSS Grid com duas colunas;
+- Design responsivo com breakpoint para mobile (max-width: 600px);
+- Sidebar com bordas arredondadas e identidade visual própria;
+- Links para GitHub e LinkedIn;
+- Paleta de cores em tons de vinho.
+
+## Autoria
+Desenvolvido por Sthefany Alaminos, como atividade acadêmica para disciplina de Fundamentos Web do Curso Análise e Desenvolvimento de Sistemas - Universidade Presbiteriana Mackenzie.
