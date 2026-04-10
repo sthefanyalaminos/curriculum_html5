@@ -27,3 +27,6 @@ This project was developed as an academic assignment in the Web Fundamentals cou
 - Sidebar with rounded corners and its own visual identity;
 - Links to GitHub and LinkedIn;
 - Color palette in shades of burgundy/wine.
+
+## Authorship
+Developed by Sthefany Alaminos, as an academic activity for the Web Fundamentals course of Systems Analysis and Development - Universidade Presbiteriana Mackenzie.
