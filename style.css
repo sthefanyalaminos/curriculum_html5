@@ -131,3 +131,23 @@ section li {
     font-size: 0.9rem;
 }
 
+@media (max-width: 600px) {
+    body {
+        grid-template-columns: 1fr;
+        margin: 0;
+    }
+ 
+    .sidebar {
+        grid-column: 1;
+        grid-row: auto;
+        border-radius: 0;
+        margin-left: 0;
+        padding: 2rem 1.5rem;
+    }
+ 
+    .hab h2,
+    .ed h2,
+    .cursos h2 {
+        margin-top: 1.5rem;
+    }
+}
