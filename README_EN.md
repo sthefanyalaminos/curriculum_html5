@@ -1,4 +1,6 @@
-# 📄 Web RCurriculum
+# 📄 Web Curriculum
+[Traduzir para Português](https://github.com/sthefanyalaminos/curriculum_html5/blob/main/README.md)
+
 Personal curriculum developed in HTML5 and CSS3 as an academic project for the Systems Analysis and Development course - Mackenzie.
 
 <div align="right">
