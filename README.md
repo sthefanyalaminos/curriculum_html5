@@ -1,4 +1,6 @@
 # 📄 Curriculum Web
+[Translate to English](https://github.com/sthefanyalaminos/curriculum_html5/blob/main/README_EN.md)
+
 Currículo pessoal desenvolvido em HTML5 e CSS3 como trabalho acadêmico do curso de Análise e Desenvolvimento de Sistemas - Mackenzie.
 
 <div align="right">
