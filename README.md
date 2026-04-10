@@ -5,6 +5,8 @@ Currículo pessoal desenvolvido em HTML5 e CSS3 como trabalho acadêmico do curs
 <a href="https://sthefanyalaminos.github.io/curriculum_html5/">Clique aqui para acessar!</a>
 </div>
 
+<img src="assets/img_curriculum.png">
+
 ---
 Este projeto foi desenvolvido como trabalho acadêmico na disciplina de Fundamentos Web do curso de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, com o objetivo de praticar:
 
